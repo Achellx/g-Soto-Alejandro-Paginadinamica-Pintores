@@ -1,0 +1,23 @@
+{
+  "name": "sitiodinamico-pintores",
+  "version": "1.0.0",
+  "description": "Sitio dinamico sobre pintores",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Achellx/g-Soto-Alejandro-Paginadinamica-Pintores.git"
+  },
+  "author": "Alejandro Soto Aguirre",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Achellx/g-Soto-Alejandro-Paginadinamica-Pintores/issues"
+  },
+  "homepage": "https://github.com/Achellx/g-Soto-Alejandro-Paginadinamica-Pintores#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "hbs": "^4.1.1"
+  }
+}
